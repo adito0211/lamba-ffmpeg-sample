@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project!
+# Lambda and FFmpegレイヤー環境構築サンプル
 
 This is a blank project for TypeScript development with CDK.
 
